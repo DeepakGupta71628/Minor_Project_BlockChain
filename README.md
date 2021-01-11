@@ -16,3 +16,6 @@ BlockVote is a blockchain based election system which lets voters elect candidat
 4. Reset smart contracts: `truffle migrate --reset`
 5. Run server: `npm run dev`
 
+
+### Link to the vedio of BLockVote 
+https://drive.google.com/file/d/1tax3kmPxK1z4pB3FO1iiFeVDFEfEMIAL/view
